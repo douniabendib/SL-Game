@@ -7,7 +7,7 @@ Challenge is to develop a 2D game called "So Long" using the MiniLibX library. T
 Final Project Blog Article: 
 https://docs.google.com/document/d/1Oh1yUN4hmn4NOCC6Dx17VzFLnwnHpruz50Lo1QG-7p0/edit#heading=h.z6ne0og04bp5
 LinkdIn:
-https://www.linkedin.com/in/saliha-lammari/
+https://www.linkedin.com/in/saliha-lammari-6611052b6/
 https://www.linkedin.com/in/safae-sahih-b31228270/
 https://www.linkedin.com/in/dounia-bendib-250212260/
 mlx_init
